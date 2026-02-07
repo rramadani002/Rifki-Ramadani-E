@@ -84,7 +84,7 @@
     <div class="card">
         <h1>Tugas Perkenalan Diri</h1>
 
-        <img src="/img/profil.jpeg" alt="Foto Profil">
+        <img src="/img/profil2.jpeg" alt="Foto Profil">
 
         <h2>Rifki Ramadani</h2>
         <p><b>NIM    :</b> E41241869</p>
