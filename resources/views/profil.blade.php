@@ -142,13 +142,12 @@
 
     <!-- CARD UTAMA -->
     <div class="card">
-        <h1>Tugas Perkenalan Diri</h1>
+        <h1>Perkenalan Diri</h1>
 
-        <img src="/img/profil.jpeg" alt="Foto Profil">
+        <img src="/img/profil2.jpeg" alt="Foto Profil">
 
         <h2>Rifki Ramadani</h2>
-        <p><b>NIM:</b> E41241869</p>
-        <p><b>Prodi:</b> Teknik Informatika</p>
+        <p><b>NIM   :</b> E41241869</p>
 
         <!-- LINK / BUTTON -->
         <a class="btn" onclick="openModal()">Lihat Profil</a>
@@ -159,12 +158,14 @@
         <div class="modal-content">
             <span class="close" onclick="closeModal()">&times;</span>
 
-            <img src="/img/profil.jpeg" alt="Foto Profil">
+            <img src="/img/profil2.jpeg" alt="Foto Profil">
 
             <h2>Rifki Ramadani</h2>
-            <p><b>Kampus  :</b> Politeknik Negeri jember</p>
-            <p><b>Jurusan :</b> Teknologi Informasi</p>
-            <p><b>Minat:</b> Teknik Informatika</p>
+            <p><b>Jurusan  :</b> Teknologi Informasi</p>
+            <p><b>Prodi    :</b> Teknik Informatika</p>
+            <p><b>Semester :</b> 4 (Genap)</p>
+            <p><b>Golongan :</b> E</p>
+           
             <p>
                 Mahasiswa Teknik Informatika semester 4
                 yang sedang belajar mengenai pengembangan aplikasi web
